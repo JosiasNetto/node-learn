@@ -1,0 +1,8 @@
+Palavras dupliadas no pragrafo 1:  
+Palavras dupliadas no pragrafo 2:  
+Palavras dupliadas no pragrafo 3: uma 
+Palavras dupliadas no pragrafo 4:  
+Palavras dupliadas no pragrafo 5:  
+Palavras dupliadas no pragrafo 6:  
+Palavras dupliadas no pragrafo 7: dispositivos, web, seu, conectado 
+Palavras dupliadas no pragrafo 8: cliente, uma, para 
